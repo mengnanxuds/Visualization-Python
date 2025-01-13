@@ -2,7 +2,50 @@
 
 
 
+# 4.3 Plotly Basics
 
+This Jupyter Notebook demonstrates fundamental concepts and usage of Plotly, a powerful Python library for creating interactive and visually appealing data visualizations. The content is designed to help users become familiar with Plotly basics, including generating various types of plots and customizing their appearance.
+
+## Features
+
+- **Introduction to Plotly**: Overview of the library and its capabilities for data visualization.
+- **Basic Plots**:
+  - Line plots
+  - Scatter plots
+  - Bar charts
+- **Interactive Visualizations**:
+  - Tooltips
+  - Zooming and panning
+- **Customization**:
+  - Adding titles, labels, and annotations
+  - Customizing color schemes and styles
+  - Managing layouts and subplots
+
+## Prerequisites
+
+To run this notebook, ensure you have the following installed:
+
+- Python 3.x
+- Jupyter Notebook or JupyterLab
+- Plotly library (`pip install plotly`)
+
+## Getting Started
+
+1. Clone or download this repository to your local machine.
+2. Open the notebook file (`4.3_Plotly_Basics.ipynb`) in Jupyter Notebook or JupyterLab.
+3. Execute the cells sequentially to explore the examples and outputs.
+
+## Usage
+
+This notebook is intended for:
+
+- Beginners learning data visualization in Python.
+- Developers seeking to create interactive plots for their data analysis projects.
+- Anyone interested in exploring the capabilities of Plotly.
+
+## References
+
+For additional information on Plotly, visit the [official documentation](https://plotly.com/python/).
 
 
 
