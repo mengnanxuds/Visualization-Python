@@ -2,9 +2,10 @@
 
 
 
-# 4.3 Plotly Basics
+## Plotly Basics
 
-This Jupyter Notebook demonstrates fundamental concepts and usage of Plotly, a powerful Python library for creating interactive and visually appealing data visualizations. The content is designed to help users become familiar with Plotly basics, including generating various types of plots and customizing their appearance.
+Plotly is a powerful Python library for creating interactive and visually appealing data visualizations. I am going to create various types of plots and customizing their appearance using plotly.
+
 
 ## Features
 
